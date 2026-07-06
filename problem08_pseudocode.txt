@@ -1,0 +1,7 @@
+START
+INPUT number IF number 90 or above
+      DISPLAY "Eligible for Honor Roll"
+Else
+      DISPLAY "Not Eligible for Honor Roll"
+END IF
+END
