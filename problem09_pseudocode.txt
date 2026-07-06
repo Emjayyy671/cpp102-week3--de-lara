@@ -1,0 +1,9 @@
+START
+INPUT point differential, greater than 0
+      DISPLAY "Win"
+ELSE less than 0
+      DISPLAY "Loss"
+ELSE exactly 0
+      DISPLAY "Tie"
+END IF
+END
