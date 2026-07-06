@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask for length1
+Step 3: Ask for width2
+Step 4: Compute the sum= length1 + width2
+Step 5: Display the sum
+Step 6: Display the result

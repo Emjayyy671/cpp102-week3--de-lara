@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Ask for base pay
+Step 3: Ask for commission rate
+Step 4: Ask for total sales
+Step 5: Compute the total pay
+Step 6: Display the sum
+Step 7: Display the result

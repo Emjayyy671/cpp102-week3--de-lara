@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Ask for trial1
+Step 3: Ask for trial2
+Step 4: Ask for trial3
+Step 5: Compute the average = trial1 + trial2 + trial3
+Step 6: Display the average
+Step 7: Display the result

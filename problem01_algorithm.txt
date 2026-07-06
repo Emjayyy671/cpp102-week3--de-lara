@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask for distance goal1
+Step 2: Ask for distance already covered goal2
+Step 4: Compute the sum= goal1 - covered goal2
+Step 5: Display the distance left
+Step 6: Display the result

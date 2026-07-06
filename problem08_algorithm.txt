@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask for student's general average
+Step 3: Display "Eligible for Honor Roll" if it is 90 or above
+Step 4: if no
+Step 5: Display "Not Eligible for Honor Roll"
+Step 6: End

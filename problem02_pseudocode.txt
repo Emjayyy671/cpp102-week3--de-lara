@@ -1,0 +1,6 @@
+START
+INPUT length1
+INPUT width2
+PROCESS sum = lenth1 + width2
+DISPLAY sum
+END

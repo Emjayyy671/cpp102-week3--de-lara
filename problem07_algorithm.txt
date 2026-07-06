@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Ask for score 30%1
+Step 3: Ask for score 30%2
+Step 4: Ask for score 40%3
+Step 5: Compute the requirement standing
+Step 6: Display the sum
+Step 7: Display the result

@@ -1,0 +1,7 @@
+Step 1: START
+Step 2: Ask for price and quantity of snack1
+Step 3: Ask for price and quantity of snack2
+Step 4: Ask for price and quantity of snack3
+Step 5: Compute the sum = snack1 + snack2 + snack3
+Step 6: Display the sum
+Step 7: Display the result

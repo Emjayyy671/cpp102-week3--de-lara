@@ -1,0 +1,7 @@
+START
+INPUT snack1
+INPUT snack2
+INPUT snack3
+PROCESS of sum = snack1 + snack2 + snack3
+DISPLAY sum
+END

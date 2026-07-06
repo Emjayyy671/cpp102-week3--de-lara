@@ -1,0 +1,6 @@
+START
+INPUT goal1
+INPUT covered goal2
+PROCESS sum= goal1 - covered goal2
+DISPLAY sum
+END

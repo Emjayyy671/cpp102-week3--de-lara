@@ -1,0 +1,6 @@
+START
+INPUT rate per hour1
+INPUT no. of hrs parked2
+PROCESS sum = rate per hr1 + no. of hrs parked2
+DISPLAY sum
+END

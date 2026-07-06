@@ -1,0 +1,7 @@
+START
+INPUT base pay
+INPUT commission rate
+INPUT total sales
+PROCESS total pay = base pay + commission rate + total sales
+DISPLAY total pay
+END

@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask for rate per hour1
+Step 3: Ask for no. of hrs parked2
+Step 4: Compute the sum = rate per hour1 + no. of hrs parked2
+Step 5: Display the sum
+Step 6: Display the result
